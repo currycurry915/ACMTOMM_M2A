@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Motion-to-Attention: Attention Motion Composer using Optical Flow for Text-to-Video Editing</h1>
+<h1>Motion-to-Attention: Enhancing Attention Maps to Improve Performance of Text-Guided Video Editing Models</h1>
 
 [🖼️ Project Page](https://currycurry915.github.io/Motion-to-Attention/) — Visit our project page for more visual results and detailed explanations.
 <br>
