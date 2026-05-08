@@ -6,6 +6,7 @@
 <br>
 [📄 Paper (PDF)](results/readme_images/Motion-to-Attention.pdf) — Read the full paper for technical details, methodology, and experimental results.
 
+<strong>[ACM TOMM 2026]</strong> Official implementation of <strong>Motion-to-Attention (M2A)</strong>.
 </div>
 
 ---
